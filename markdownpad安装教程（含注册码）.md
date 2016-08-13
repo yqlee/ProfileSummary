@@ -1,4 +1,4 @@
-##MarkDownPad##
+##MarkDownPad安装教程（含注册码）##
 
 #下载地址：
  [http://markdownpad.com/download.html](http://markdownpad.com/download.html)

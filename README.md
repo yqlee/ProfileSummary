@@ -17,3 +17,5 @@
 8. 大头鬼：[https://github.com/lzyzsd](https://github.com/lzyzsd)  
 9. 赵凯强：[http://blog.csdn.net/zhaokaiqiang1992](http://blog.csdn.net/zhaokaiqiang1992)  
 10. Gracker:[http://www.jianshu.com/users/FK4sc4/latest_articles](http://www.jianshu.com/users/FK4sc4/latest_articles) 专注性能优化，简书著名博主  
+# 优质资料 #
+Android最佳实践：[https://github.com/tianzhijiexian/Android-Best-Practices](https://github.com/tianzhijiexian/Android-Best-Practices)  
